@@ -1,4 +1,4 @@
-# Flutter Firebase CLI
+# Flutter Firebase
 
 A new Flutter project.
 
